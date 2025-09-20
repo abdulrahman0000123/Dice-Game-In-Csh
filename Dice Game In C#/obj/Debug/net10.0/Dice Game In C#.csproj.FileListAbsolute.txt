@@ -1,0 +1,14 @@
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.AssemblyInfoInputs.cache
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.AssemblyInfo.cs
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.csproj.CoreCompileInputs.cache
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\bin\Debug\net10.0\Dice Game In C#.exe
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\bin\Debug\net10.0\Dice Game In C#.deps.json
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\bin\Debug\net10.0\Dice Game In C#.runtimeconfig.json
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\bin\Debug\net10.0\Dice Game In C#.dll
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\bin\Debug\net10.0\Dice Game In C#.pdb
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.dll
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\refint\Dice Game In C#.dll
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.pdb
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\Dice Game In C#.genruntimeconfig.cache
+F:\Projects\Oop training\Dice Game In C#\Dice Game In C#\Dice Game In C#\obj\Debug\net10.0\ref\Dice Game In C#.dll
